@@ -1,0 +1,16 @@
+/target
+/build
+/gradle
+/out
+/bin
+.iml
+.log
+.lock
+.tmp
+.idea
+.gradle
+.DS_Store
+Thumbs.db
+gradlew
+gradlew.bat
+settings.gradle
